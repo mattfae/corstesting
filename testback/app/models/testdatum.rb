@@ -1,0 +1,2 @@
+class Testdatum < ApplicationRecord
+end
